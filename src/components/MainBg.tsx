@@ -1,5 +1,5 @@
 import urlAei from "/Aei.mp4";
-import urlBgPng from "/bg.png?url";
+import urlBgPng from "/bg.webp?url";
 import urlBgSvg from "/bg.svg?url";
 
 export function MainBg() {

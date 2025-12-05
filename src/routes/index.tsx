@@ -10,8 +10,8 @@ import pt from "/pt.png?url";
 import sc from "/sc.svg?url";
 import yt from "/yt.svg?url";
 import mt from "/mt.svg?url";
-import bgBullish from "/bg-bullish.svg?url";
-import bgMinke from "/bg-minke.svg?url";
+import bgBullish from "/bg-bullish.png?url";
+import bgMinke from "/bg-minke.png?url";
 import { Footer } from "@/components/header-footer";
 
 export const Route = createFileRoute("/")({
