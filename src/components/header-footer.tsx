@@ -56,7 +56,7 @@ export function Footer() {
     <footer className="w-full flex py-8 justify-center">
       <div className="w-full max-w-410 px-5 flex justify-between items-center">
         <Logo className="[--color-text:#25323F]" />
-        <div className="text-xs font-lexend text-black/60">© 2025 Aei Finance All rights reserved.</div>
+        <div className="text-xs font-lexend text-black/60">© 2025 Minke Finance All rights reserved.</div>
       </div>
     </footer>
   );

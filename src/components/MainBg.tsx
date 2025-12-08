@@ -1,4 +1,4 @@
-import urlAei from "/Aei.mp4";
+import urlAei from "/qqb.gif";
 import urlBgPng from "/bg.webp?url";
 import urlBgSvg from "/bg.svg?url";
 
@@ -15,13 +15,9 @@ export function MainBg() {
 				src={urlBgPng}
 				className="absolute bottom-0 right-0 w-full h-[calc(100%-5rem)] object-fill"
 			/>
-			<video
+			<img
 				src={urlAei}
-				className="absolute left-0 top-0 w-full h-full hidden lg:block"
-                autoPlay
-				muted
-				loop
-				controls={false}
+				className="absolute left-0 top-0 w-full h-full hidden lg:block object-contain"
 			/>
 		</div>
 	);

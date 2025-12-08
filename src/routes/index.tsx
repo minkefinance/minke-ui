@@ -259,7 +259,7 @@ function App() {
           >
             <span>Bullish or Bearish？</span>
             <span>You Decide</span>
-            <span className="text-[.4em]">--Shape Your Strategy with Aei Finance</span>
+            <span className="text-[.4em]">--Shape Your Strategy with Minke Finance</span>
           </div>
           <div style={{ background: `center/contain no-repeat  url(${bgMinke})` }} className="absolute top-0 right-5 h-[clamp(18rem,36.5vw,37.5rem)] aspect-703/600 " />
         </div>
